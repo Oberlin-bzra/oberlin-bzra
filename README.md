@@ -1,18 +1,15 @@
 <h1 align="center">Hi 👋, I'm Noel</h1>
 <h3 align="center">IT Student from Switzerland</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oberlin-bzra" alt="oberlin-bzra" /></a> </p>
-
-- F1 Fanpage Project [Apex Tracker](https://github.com/Oberlin-bzra/M295_Project)
-
 - 🏫 BWZ in Rapperswil **Switzerland**
-
-- School Project [FC Bayern Fanpage](https://github.com/Oberlin-bzra/FC-Bayern-Webpage)
 
 - 🎓 Informatikmittelschule **IMS**
 
 - 📫 How to reach me **noel.oberlin@bwz-rappi.ch**
+- 
+- - F1 Fanpage Project [Apex Tracker](https://github.com/Oberlin-bzra/M295_Project)
 
+- School Project [FC Bayern Fanpage](https://github.com/Oberlin-bzra/FC-Bayern-Webpage)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>

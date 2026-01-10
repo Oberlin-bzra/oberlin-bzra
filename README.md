@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Noel</h1>
 <h3 align="center">IT Student from Switzerland</h3>
 
-- 🏫 BWZ in Rapperswil **Switzerland**
+- 🏫 BWZ Rapperswil **Switzerland**
 
 - 🎓 Informatikmittelschule **IMS**
 

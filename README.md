@@ -5,8 +5,7 @@
   
 - 🏫 BWZ Rapperswil **Switzerland**
   
-- 📫 How to reach me **noel.oberlin@bwz-rappi.ch**
-  
+  <h3 align="left">My Projects:</h3>
  - F1 Fanpage Project [Apex Tracker](https://github.com/Oberlin-bzra/M295_Project)
 
 - First HTML Project [FC Bayern Fanpage](https://github.com/Oberlin-bzra/FC-Bayern-Webpage)

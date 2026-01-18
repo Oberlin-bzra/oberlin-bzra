@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Noel</h1>
 <h3 align="center">IT Student from Switzerland</h3>
 
-- 🏫 BWZ Rapperswil **Switzerland**
-
 - 🎓 Informatikmittelschule **IMS**
-
+  
+- 🏫 BWZ Rapperswil **Switzerland**
+  
 - 📫 How to reach me **noel.oberlin@bwz-rappi.ch**
   
  - F1 Fanpage Project [Apex Tracker](https://github.com/Oberlin-bzra/M295_Project)
@@ -13,7 +13,7 @@
 
 - First Java Project [Fahrzeugverwaltung](https://github.com/Oberlin-bzra/FahrzeugVerwaltung)
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left">noel.oberlin@gmx.ch
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

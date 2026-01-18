@@ -7,7 +7,7 @@
 
   
 <h3 align="left">My Projects:</h3>
-- F1 Fanpage Project [Apex Tracker](https://github.com/Oberlin-bzra/Apex-Tracker)
+- F1 Fanpage Project [ApexTracker](https://github.com/Oberlin-bzra/ApexTracker)
 
 - First HTML Project [FC Bayern Fanpage](https://github.com/Oberlin-bzra/FC-Bayern-Webpage)
 

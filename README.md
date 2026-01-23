@@ -14,7 +14,7 @@
 
 - First Java Project [Fahrzeugverwaltung](https://github.com/Oberlin-bzra/FahrzeugVerwaltung)
 <h3 align="left">Connect with me:</h3>
-<p align="left">noel.oberlin@gmx.ch
+<p align="left">noel.oberlin@bwz-rappi.ch
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

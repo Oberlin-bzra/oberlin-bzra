@@ -8,7 +8,7 @@
   
 <h3 align="left">My Projects:</h3>
  
-- Calendar & Notes App [Kalendo](https://github.com/Oberlin-bzra/CalendarApp) — [Live Demo](https://calendar-app-taupe-delta.vercel.app/)
+- Calendar & Notes App [Kalendo](https://github.com/Oberlin-bzra/CalendarApp) — [Live Demo](https://kalendo-deploy.vercel.app/)
 - F1 Fanpage Project [ApexTracker](https://github.com/Oberlin-bzra/Apex-Tracker)
 - First HTML Project [FC Bayern Fanpage](https://github.com/Oberlin-bzra/FC-Bayern-Webpage)
 

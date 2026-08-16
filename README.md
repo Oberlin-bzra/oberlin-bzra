@@ -10,8 +10,8 @@
  
 - Calendar & Notes App [Kalendo](https://github.com/Oberlin-bzra/CalendarApp) — [Live Demo](https://kalendo-deploy.vercel.app/)
 - F1 Fanpage Project [ApexTracker](https://github.com/Oberlin-bzra/Apex-Tracker)
-- First HTML Project [FC Bayern Fanpage](https://github.com/Oberlin-bzra/FC-Bayern-Webpage)
-
+- Personal Portfolio Page [Portfolio](https://github.com/Oberlin-bzra/portfolio) - [Live Demo](https://portfolio-noel-oberlin.vercel.app/)
+- First HTML Project [FC Bayern Fanpage](https://github.com/Oberlin-bzra/FC-Bayern-Webpage) — [Live Demo](https://fcbayern-fanpage.netlify.app)
 ### 🛠️ Languages and Tools
 
 #### Frontend
